@@ -1,3 +1,3 @@
-# picsumBot
+# Telegram Predicitons Bot
 
-Simple CRUD telegram bot for pictures from picsum.photo
+Telegram bot for generating predictions given color.
